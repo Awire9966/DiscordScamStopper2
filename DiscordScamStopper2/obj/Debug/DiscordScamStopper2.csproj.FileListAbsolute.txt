@@ -1,0 +1,11 @@
+C:\Users\Awire\source\repos\DiscordScamStopper2\DiscordScamStopper2\bin\Debug\DiscordScamStopper2.exe.config
+C:\Users\Awire\source\repos\DiscordScamStopper2\DiscordScamStopper2\bin\Debug\DiscordScamStopper2.exe
+C:\Users\Awire\source\repos\DiscordScamStopper2\DiscordScamStopper2\bin\Debug\DiscordScamStopper2.pdb
+C:\Users\Awire\source\repos\DiscordScamStopper2\DiscordScamStopper2\obj\Debug\DiscordScamStopper2.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\DiscordScamStopper2\DiscordScamStopper2\obj\Debug\DiscordScamStopper2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Awire\source\repos\DiscordScamStopper2\DiscordScamStopper2\obj\Debug\DiscordScamStopper2.Form1.resources
+C:\Users\Awire\source\repos\DiscordScamStopper2\DiscordScamStopper2\obj\Debug\DiscordScamStopper2.Properties.Resources.resources
+C:\Users\Awire\source\repos\DiscordScamStopper2\DiscordScamStopper2\obj\Debug\DiscordScamStopper2.csproj.GenerateResource.cache
+C:\Users\Awire\source\repos\DiscordScamStopper2\DiscordScamStopper2\obj\Debug\DiscordScamStopper2.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\DiscordScamStopper2\DiscordScamStopper2\obj\Debug\DiscordScamStopper2.exe
+C:\Users\Awire\source\repos\DiscordScamStopper2\DiscordScamStopper2\obj\Debug\DiscordScamStopper2.pdb
